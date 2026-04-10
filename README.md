@@ -1,27 +1,25 @@
 # 👋 Hi, I'm Kshitiz Rawat
 
-🚀 Aspiring Software Engineer | Java + DSA | Full Stack Developer
+## 🚀 About Me
 
----
+* Aspiring Full Stack Developer
+* Strong in Java + DSA
+* Passionate about building web applications
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-* Java
-* Python
-* HTML, CSS, JavaScript
-* React, Tailwind CSS
+* **Languages:** Java, Python
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Styling:** Tailwind CSS, SCSS
 
----
-
-## 📈 Currently:
+## 📈 Currently
 
 * Solving DSA daily
-* Building projects
-* Learning backend
+* Building full-stack projects
+* Learning backend development
 
----
+## 📫 Contact
 
-## 📫 Connect:
-
-* LinkedIn: (add later)
-* Email: (add later)
+* **Email:** [rwtchinu007@gmail.com](mailto:rwtchinu007@gmail.com)
+* **LinkedIn:** [Kshitiz Rawat](https://www.linkedin.com/in/kshitiz-rawat0806)
+* **Twitter (X):** [@chinu_codes](https://twitter.com/chinu_codes)
