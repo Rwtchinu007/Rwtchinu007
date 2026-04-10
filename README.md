@@ -1,67 +1,33 @@
-# Kshitiz Rawat
+# **Kshitiz Rawat** 👨‍💻
 
-### 🚀 Full Stack Developer | Java • React • REST APIs
-
-
----
-
-## 🧠 About
-
-* Full Stack Developer focused on building **scalable, high-performance web applications**
-* Strong foundation in **Data Structures & Algorithms (Java)**
-* Experienced in developing **responsive UI and backend APIs**
-* Consistent problem solver on **LeetCode**
-* Interested in **system design, backend architecture, and clean code practices**
+### *Full Stack Developer | Java • React • REST APIs*
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rwtchinu007&show_icons=true)
+## 🧠 **About**
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007)
-
----
-
-## 💻 Tech Stack
-## 🛠 Tech Highlights
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
-![DSA](https://img.shields.io/badge/DSA-Important-blue)
-
-* **Languages:** `Java` `Python`
-* **Frontend:** `HTML` `CSS` `JavaScript` `React`
-* **Styling:** `Tailwind CSS` `SCSS`
-* **Backend:** `Node.js` `Express.js`
-* **Core Concepts:** `DSA` `OOP` `REST APIs` `System Design`
+* *Build* **scalable, production-ready web applications**
+* Strong in **Data Structures & Algorithms (Java)**
+* Develop **clean, responsive UIs** and **efficient backend APIs**
+* Focused on **system design, performance, and code quality**
 
 ---
 
-## 📈 Current Focus
+## ⚙️ **Tech**
 
-* Solving **DSA problems consistently** and improving problem-solving skills
-* Building **full stack applications with real-world use cases**
-* Strengthening **backend development and system design fundamentals**
+`Java` `Python` `JavaScript` `React` `Node.js` `Express` `MongoDB` `Tailwind`
 
 ---
 
-## 📌 Key Highlights
+## 📊 **GitHub**
 
-* Active problem solver on LeetCode
-* Building scalable full stack projects
-* Strong understanding of core computer science concepts
-
----
-
-## 🔗 Profiles
-
-* LeetCode: [rwtt_007](https://leetcode.com/rwtt_007)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rwtchinu007\&show_icons=true\&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007\&hide_border=true)
 
 ---
 
-## 📫 Contact
+## 🎯 **Focus**
 
-* Email: [rwtchinu007@gmail.com](mailto:rwtchinu007@gmail.com)
-* LinkedIn: [kshitiz-rawat0806](https://www.linkedin.com/in/kshitiz-rawat0806)
-* Twitter (X): [@chinu_codes](https://twitter.com/chinu_codes)
+* *DSA consistency*
+* *Full stack systems*
+* *Backend & system design*
