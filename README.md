@@ -16,7 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rwtchinu007&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rwtchinu007&show_icons=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007)
 
