@@ -2,6 +2,7 @@
 
 ### 🚀 Full Stack Developer | Java • React • REST APIs
 
+
 ---
 
 ## 🧠 About
@@ -14,7 +15,20 @@
 
 ---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rwtchinu007&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007)
+
+---
+
 ## 💻 Tech Stack
+## 🛠 Tech Highlights
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
+![DSA](https://img.shields.io/badge/DSA-Important-blue)
 
 * **Languages:** `Java` `Python`
 * **Frontend:** `HTML` `CSS` `JavaScript` `React`
