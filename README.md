@@ -19,13 +19,6 @@
 
 ---
 
-## 📊 **GitHub**
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rwtchinu007\&show_icons=true\&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007\&hide_border=true)
-
----
-
 ## 🎯 **Focus**
 
 * *DSA consistency*
