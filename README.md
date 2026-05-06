@@ -5,7 +5,7 @@
 
 ## About
 
-- Full Stack Engineer with a strong backend focus — APIs, architecture, and
+- Full Stack Engineer with a strong backend focus - APIs, architecture, and
   getting things to work in production
 - Solved 100+ LeetCode problems and carry DSA into real engineering decisions
 - Focused on clean code, performance, and system design
