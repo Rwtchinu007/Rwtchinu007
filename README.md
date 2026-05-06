@@ -5,11 +5,11 @@
 
 ## About
 
-- Full Stack Engineer with a strong backend focus — APIs, architecture, and
+- Full Stack Engineer with a strong backend focus - APIs, architecture, and
   getting things to actually work in production
 - Solved 100+ LeetCode problems; DSA is something I enjoy and carry into
   real engineering decisions
-- I write code that is clean, fast, and easy for the next person to pick up
+- Focused on **system design, performance, and code quality**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## What I Bring
 
-- **Full stack** — I handle everything from database to UI on my own
-- **Fast code** — I use DSA to write backend logic that actually performs
-- **Clean APIs** — simple, reliable, and easy to work with
-- **Readable code** — easy to understand and maintain for whoever comes next
+- **Full stack** - I handle everything from database to UI on my own
+- **Fast code** - I use DSA to write backend logic that actually performs
+- **Clean APIs** - simple, reliable, and easy to work with
+- **Readable code** - easy to understand and maintain for whoever comes next
