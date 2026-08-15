@@ -1,31 +1,61 @@
-# Kshitiz Rawat
-**Full Stack Engineer** · Java · React · REST APIs
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2E9BF0&center=true&vCenter=true&width=600&lines=Kshitiz+Rawat;Full+Stack+Developer;MERN+Stack+%7C+Generative+AI+%7C+DSA" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rwtchinu007&label=Profile%20Views&color=2E9BF0&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/kshitiz-rawat0806"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/chinu_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/rwtt007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
-
 ## About
-
 - Full Stack Engineer with a strong backend focus on APIs, architecture, and production reliability  
-- Solved 100+ LeetCode problems; apply DSA concepts in real-world engineering decisions  
+- Solved 200+ LeetCode problems; apply DSA concepts in real-world engineering decisions  
 - Focused on clean code, performance, and system design best practices  
-
 ---
-
 ## Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+## Focus
+- Generative AI exploration and applications  
+- DSA and problem solving  
+- Building full-stack projects end to end using the MERN stack
 
 ---
+## GitHub Stats
 
-## Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rwtchinu007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwtchinu007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
-- Backend engineering and system design  
-- DSA and problem solving  
-- Building full-stack projects end to end  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwtchinu007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rwtchinu007&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%" />
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9BF0&height=120&section=footer" alt="Footer wave" />
+</p>
