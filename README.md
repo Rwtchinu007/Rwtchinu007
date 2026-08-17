@@ -1,25 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2E9BF0&center=true&vCenter=true&width=600&lines=Kshitiz+Rawat;Full+Stack+Developer;MERN+Stack+%7C+Generative+AI+%7C+DSA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:6C63FF&height=180&section=header&text=Kshitiz%20Rawat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2E9BF0&center=true&vCenter=true&width=600&lines=Kshitiz+Rawat;Full+Stack+Developer;MERN+Stack+%7C+Generative+AI+%7C+DSA" alt="Typing SVG" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/kshitiz-rawat0806"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/chinu_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://leetcode.com/u/rwtt007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
-
 ---
-
 ## About
-
 - Full Stack Engineer with a strong backend focus on APIs, architecture, and production reliability  
 - Solved 200+ LeetCode problems; apply DSA concepts in real-world engineering decisions  
 - Focused on clean code, performance, and system design best practices  
-
 ---
-
 ## Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,14 +29,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
-
 ## Focus
-
 - Generative AI exploration and applications  
 - DSA and problem solving  
 - Building full-stack projects end to end using the MERN stack
-
 ---
-
